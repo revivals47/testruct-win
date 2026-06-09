@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/revivals47/testruct-win/releases/download/v1.0.2/Testruct-Setup-1.0.2.exe",
-  "notes": "縦書き・日本語組版の強化（字間/列間/縦中横/約物半角/基本禁則）、スライダーのリアルタイム反映、リッチテキスト編集（ルビ）、テーマ刷新。"
+  "version": "1.0.3",
+  "url": "https://github.com/revivals47/testruct-win/releases/download/v1.0.3/Testruct-Setup-1.0.3.exe",
+  "notes": "Mac版追従（数式パレット／矢印移動UX）＋ アプリ内アップデートの不具合修正 ＋ .testruct関連付けの修正 ＋ バージョン表示。※既存1.0.2をお使いの方は手動で再インストールが必要です。"
 }
