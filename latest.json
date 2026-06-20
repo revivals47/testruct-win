@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/revivals47/testruct-win/releases/download/v1.0.4/Testruct-Setup-1.0.4.exe",
-  "notes": "描画パフォーマンスの大幅改善（ホバー/操作の引っかかり解消・クリック選択の即応化・起動時の白紙表示を解消）。v1.0.3以降はアプリ内の自動更新で更新できます。v1.0.2以前をお使いの方は手動で再インストールしてください。"
+  "version": "1.0.5",
+  "url": "https://github.com/revivals47/testruct-win/releases/download/v1.0.5/Testruct-Setup-1.0.5.exe",
+  "notes": "エディタのUIをMac版と同じ三ペイン構成に刷新しました。ツール選択とプリセットを上部ツールバーに集約し、ページサムネイルを左の縦サイドバーへ移動。中央キャンバス・右インスペクタの作業領域が広く使えます。v1.0.3以降はアプリ内の自動更新で更新できます。"
 }
